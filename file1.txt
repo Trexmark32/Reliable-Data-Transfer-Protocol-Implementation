@@ -1,0 +1,13 @@
+Go to a folder to clone the file
+Type git init being inn the folder
+Then git clone URL
+-Your project will be cloned to system
+touch filename.txt
+- file will be created
+Git add .
+-staching all the changes
+
+
+:: Git status to check status
+ Git commit -m "Added a new text file'filename.txt'"
+
